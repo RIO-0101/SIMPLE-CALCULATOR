@@ -1,10 +1,12 @@
-<h1>simple calculator </h1>
+# SIMPLE CALCULATOR 
 
-<h2>Program language used:</h2>
- • html, CSS , Javascript
+## Program language used:
+ * HTML
+ * CSS
+ * JAVASCRIPT
 
-<h2>DEMO <h2>
-https://rio-0101.github.io/simple-calculator-
+## DEMO
+  * https://rio-0101.github.io/SIMPLE-CALCULATOR-/
 
-<h2>PREVIEW</h2>
+## PREVIEW
 <img src="https://drive.google.com/uc?id=17HTPh7rnAB9Mp5hawEjkMCUnh-rb53Dy"/>
